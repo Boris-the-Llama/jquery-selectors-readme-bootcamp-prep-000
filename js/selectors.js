@@ -11,4 +11,8 @@ function ninjaBabySelector() {
   return $('');
 }
 
+function divSelector() {
+  return $('');
+}
+
 function 
